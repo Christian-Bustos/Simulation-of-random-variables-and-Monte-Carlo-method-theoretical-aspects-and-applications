@@ -1,3 +1,3 @@
-# Simulation-of-random-variables-and-Monte-Carlo-method-theoretical-aspects-and-applications
+# Simulation-of-random-variables-and-Monte-Carlo-method-theoretical-aspects-and-applications (Italian version)
 
 This thesis explores the Monte Carlo method and its application in financial decision-making. It begins by analyzing random variable generation, differentiating between True and Pseudo Random Number Generators (TRNG and PRNG), and discussing methods like the Linear Congruential Generator (LCG). The Monte Carlo method is then introduced with historical context, showcasing its use in approximating integrals and stock market predictions. Practical examples are provided, including Monte Carlo simulation of future returns for the SPY stock. The work combines theoretical insights with R code implementations to demonstrate the utility of Monte Carlo simulations in financial analysis.
